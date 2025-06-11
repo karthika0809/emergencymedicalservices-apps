@@ -1,0 +1,16 @@
+.blood-gr{
+    color:red;
+}
+.card h2{
+    font-size:13px;
+}
+.card p{
+    font-size:15px;
+    padding-left: 0%;
+}
+.card .buy{
+    height: 35px;
+    width: 70px;
+    /* margin-top: 9px; */
+}
+
